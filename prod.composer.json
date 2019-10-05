@@ -1,0 +1,14 @@
+{
+  "name": "getzincphp/zincphp",
+  "description": "A RESTful micro framework for PHP",
+  "keywords": ["framework", "zincphp", "php", "rest", "api", "micro"],
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "getzincphp/framework": "^0.7"
+  },
+  "require-dev": {
+    "getzincphp/cli": "^0.6",
+    "phpunit/phpunit": "^8.0"
+  }
+}
