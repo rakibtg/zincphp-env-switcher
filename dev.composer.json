@@ -1,0 +1,22 @@
+{
+  "name": "getzincphp/zincphp",
+
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../framework"
+    },
+    {
+      "type": "path",
+      "url": "../cli"
+    }
+  ],
+
+  "require": {
+    "getzincphp/framework": "@dev"
+  },
+
+  "require-dev": {
+    "getzincphp/cli": "@dev"
+  }
+}
